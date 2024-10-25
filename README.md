@@ -1,4 +1,4 @@
-#H&M Group: Online Order Delivery Delay in Canada
+# H&M Group: Online Order Delivery Delay in Canada
 
 In this project, the focus is on addressing H&M Group’s online order delivery delays in Canada, aiming to uncover the root causes of these delays and propose solutions to enhance customer satisfaction and improve operational efficiency.
 
