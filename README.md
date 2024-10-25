@@ -3,7 +3,7 @@
 In this project, the focus is on addressing H&M Group’s online order delivery delays in Canada, aiming to uncover the root causes of these delays and propose solutions to enhance customer satisfaction and improve operational efficiency.
 
 ## Dataset 
-<a href"https://github.com/Shanvisatti/H-M-Supply-Chain-/blob/main/H%26M%20Dashboard%20">Dataset</a> 
+<a href="https://github.com/Shanvisatti/H-M-Supply-Chain-/blob/main/H%26M%20Dashboard%20">Dataset</a> 
 
 ## Objectives:
 - Identify the factors behind H&M’s delivery delays.
